@@ -1,0 +1,135 @@
+,District,Neighbourhood,Latitude,Longitude
+0,C01,Downtown,43.6525028,-79.3835583
+1,C01,Harbourfront,43.638,-79.385
+2,C01,Little Italy,43.655,-79.413
+3,C01,Little Portugal,43.65000,-79.43556
+4,C02,The Annex,43.670,-79.404
+5,C02,Yorkville,43.67028,-79.39111
+6,C02,South Hill,43.681,-79.404
+7,C02,Summerhill,43.683,-79.390
+8,C02,Wychwood Park,43.67806,-79.41933
+9,C02,Deer Park,43.68806,-79.394028
+10,C03,Forest Hill South,43.70000,-79.41667
+11,C03,Oakwood–Vaughan,43.69250,-79.44083
+12,C03,Humewood–Cedarvale,43.69111,-79.42583
+13,C03,Corso Italia,43.677,-79.447
+14,C04,Bedford Park,43.730,-79.411
+15,C04,Lawrence Manor,43.725,-79.437
+16,C04,North Toronto,43.711,-79.389
+17,C04,Forest Hill North,43.70000,-79.41667
+18,C06,North York,43.7797,-79.4156
+19,C06,Clanton Park,43.75000,-79.45000
+20,C06,Bathurst Manor,43.76278,-79.45694
+21,C07,Willowdale,43.78722,-79.42944
+22,C07,Newtonbrook West,43.783,-79.417
+23,C07,Westminster–Branson,43.656,-79.475
+24,C07,Lansing-Westgate,43.757,-79.417
+25,C08,Cabbagetown,43.6664,-79.3629
+26,C08,St. Lawrence Market,,
+27,C08,Toronto waterfront,43.64794,-79.34635
+28,C08,Moss Park,43.655709,-79.367316
+29,C08,Church and Wellesley,43.6656944,-79.3809556
+30,C08,Garden District,43.6585,-79.3758
+31,C09,Moore Park,43.691,-79.377
+32,C09,Rosedale,43.679,-79.378
+33,C10,Davisville Village,43.701,-79.389
+34,C10,Lawrence Park South,43.722,-79.388
+35,C11,Leaside,43.70000,-79.36667
+36,C11,Thorncliffe Park,43.70472,-79.34639
+37,C11,Flemingdon Park,43.71944,-79.33889
+38,C13,Don Mills,43.73722,-79.34333
+39,C13,Parkwoods–Donalda,43.751,-79.323
+40,C13,Victoria Village,43.73556,-79.31250
+41,C14,Newtonbrook East,43.783,-79.417
+42,C14,Willowdale East,43.78722,-79.42944
+43,C15,Hillcrest Village,43.800,-79.359
+44,C15,Bayview Woods – Steeles,43.797,-79.383
+45,C15,Bayview Village,43.777,-79.379
+46,C15,Don Valley Village,43.78333,-79.35139
+47,C15,Henry Farm,43.770,-79.352
+48,C15,Pleasant View,43.787,-79.335
+49,E01,Riverdale,43.66775,-79.34961
+50,E01,Danforth (Greektown),43.678472,-79.34722
+51,E01,Leslieville,43.661927,-79.332039
+52,E02,The Beaches,43.667266,-79.297128
+53,E02,Woodbine Corridor,43.682088,-79.303272
+54,E03,Danforth (Greektown),43.678472,-79.34722
+55,E03,East York,43.6913000,-79.3278000
+56,E03,Playter Estates,43.67806,-79.35556
+57,E03,Broadview North (Old East York),43.693306,-79.31583
+58,E03,O'Connor–Parkview,43.70556,-79.31278
+59,E03,Crescent Town,43.69583,-79.29306
+60,E04,The Golden Mile,43.72556,-79.29722
+61,E04,Dorset Park,43.76528,-79.28111
+62,E04,Wexford,43.74306,-79.30444
+63,E04,Maryvale,43.74306,-79.30444
+64,E04,Scarborough Junction (Kennedy Park),43.71667,-79.25972
+65,E04,Ionview,43.73139,-79.27111
+66,E04,Clairlea,43.70972,-79.29083
+67,E05,Steeles,43.797,-79.383
+68,E05,L'Amoreaux,43.79444,-79.32583
+69,E05,Tam O'Shanter – Sullivan,43.78806,-79.30139
+70,E06,Birch Cliff,43.68750,-79.26944
+71,E06,Oakridge,43.69556,-79.27583
+72,E06,Hunt Club,43.680918,-79.272022
+73,E06,Cliffside,43.71111,-79.24806
+74,E08,Scarborough Village,43.74306,-79.21889
+75,E08,Cliffcrest,43.722,-79.231
+76,E08,Guildwood,43.74750,-79.19944
+77,E08,Eglinton East (Knob Hill),43.740,-79.246
+78,E09,Scarborough City Centre,43.77278,-79.25750
+79,E09,Woburn,43.76667,-79.22778
+80,E09,Morningside,43.787,-79.206
+81,E09,Bendale (Cedarbrae),43.76,-79.24
+82,E10,Rouge (South),43.82083,-79.20611
+83,E10,Port Union (Centennial Scarborough),43.77889,-79.13417
+84,E10,West Hill,43.76833,-79.18611
+85,E10,Highland Creek,43.78917,-79.17472
+86,E11,Rouge (West),43.82083,-79.20611
+87,E11,Malvern,43.81167,-79.23111
+88,W01,High Park,43.646821,-79.462996
+89,W01,South Parkdale,43.640454,-79.436731
+90,W01,Swansea,43.64389,-79.47778
+91,W01,Roncesvalles Village,43.646231,-79.449048
+92,W02,Bloor West Village,43.65083,-79.47750
+93,W02,Baby Point,43.65750,-79.49250
+94,W02,The Junction (Junction Area),43.66556,-79.46444
+95,W02,High Park North,43.656,-79.475
+96,W03,Keelesdale,43.690,-79.476
+97,W03,Eglinton West,43.69454,-79.4553
+98,W03,Rockcliffe–Smythe,43.67528,-79.48861
+99,W03,Weston-Pellam Park,43.672,-79.457
+100,W03,Corso Italia,43.677,-79.447
+101,W04,York,43.689829,-79.478066
+102,W04,Glen Park,43.708,-79.448
+103,W04,Amesbury (Brookhaven),43.70056,-79.49028
+104,W04,Pelmo Park – Humberlea,43.71667,-79.52778
+105,W04,Weston,43.7009889,-79.5197000
+106,W04,Fairbank (Briar Hill-Belgravia),43.69556,-79.45000
+107,W04,Maple Leaf,43.713,-79.489
+108,W04,Mount Dennis,43.6919833,-79.5062139
+109,W05,Downsview,43.73222,-79.49333
+110,W05,Humber Summit,43.757,-79.572
+111,W05,Humbermede (Emery),43.7462972,-79.5411861
+112,W05,Jane and Finch (Black Creek or Glenfield-Jane Heights),43.75722,-79.51778
+113,W05,York University Heights,43.762,-79.500
+114,W06,New Toronto,43.60056,-79.50528
+115,W06,Long Branch,43.59139,-79.53250
+116,W06,Mimico,43.61278,-79.49417
+117,W06,Alderwood,43.60750,-79.54028
+118,W07,Sunnylea (The Queensway – Humber Bay),43.63028,-79.48417
+119,W08,The Kingsway,43.64750,-79.51139
+120,W08,Central Etobicoke,43.61611,-79.51250
+121,W08,Eringate – Centennial – West Deane,43.661383,-79.57072
+122,W08,Princess-Rosethorn,43.67028,-79.54111
+123,W08,Edenbridge-Humber Valley,43.67167,-79.51444
+124,W08,Islington–City Centre West,43.64861,-79.52861
+125,W08,Markland Wood,43.63222,-79.57500
+126,W09,Kingsview Village-The Westway,43.69444,-79.55861
+127,W09,Richview (Willowridge),43.67722,-79.55083
+128,W09,Humber Heights – Westmount,43.69722,-79.52583
+129,W10,Rexdale,43.72194,-79.57194
+130,W10,Clairville,43.75000,-79.63889
+131,W10,Thistletown - Beaumond Heights,43.73722,-79.56528
+132,W10,Smithfield: Mount Olive-Silverstone-Jamestown,43.73972,-79.58028
+133,W10,The Elms (Elms-Old Rexdale),43.71306,-79.56111
